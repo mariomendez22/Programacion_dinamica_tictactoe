@@ -31,18 +31,19 @@ Este programa permite jugar entre dos usuarios o contra la computadora. Valida q
 ## Instrucciones de Uso
 
 1. Clona o descarga el repositorio:
+   
    git clone https://github.com/mariomendez22/Programacion_dinamica_tictactoe.git
 
 2. Compilar el programa:
+   
    g++ tictactoe_practica.cpp -o tictactoe
    <img width="795" height="68" alt="Captura de pantalla 2025-10-27 a la(s) 11 15 50 p m" src="https://github.com/user-attachments/assets/e6626d23-25fc-4656-9486-f373633287a7" />
 
-   
-4. Eecutar el programa:
+3. Eecutar el programa:
    ./tictactoe
    <img width="795" height="68" alt="Captura de pantalla 2025-10-27 a la(s) 11 15 57 p m" src="https://github.com/user-attachments/assets/614cc3e0-66df-43d3-ba58-dbda168de359" />
 
-5. Seguir las instrucciones en pantalla:
+4. Seguir las instrucciones en pantalla:
 
   -El programa mostrará el tablero y pedirá a los jugadores que ingresen el número de la casilla donde desean colocar su marca.
   -Las casillas se numeran del 1 al 9, de izquierda a derecha y de arriba a abajo.
